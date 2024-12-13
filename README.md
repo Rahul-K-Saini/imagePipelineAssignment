@@ -14,4 +14,4 @@ npm run dev
 -  also around clearing the canvas clearing canvas somehow was removing the image also had to search for it on internet
 
 ## Vercel Link
-[Link]https://image-pipeline-assignment.vercel.app/
+[Link](https://image-pipeline-assignment.vercel.app/)
